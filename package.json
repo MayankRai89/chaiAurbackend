@@ -1,0 +1,24 @@
+{
+  "name": "chai-ur-backend",
+  "version": "1.0.0",
+  "description": "a backend in at ct chaiAurBackend in git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MayankRai89/chaiAurbackend.git"
+  },
+  "keywords": [
+    "chai",
+    "javascript",
+    "backend"
+  ],
+  "author": "Mayank Rai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MayankRai89/chaiAurbackend/issues"
+  },
+  "homepage": "https://github.com/MayankRai89/chaiAurbackend#readme"
+}
